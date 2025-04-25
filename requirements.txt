@@ -8,3 +8,4 @@ plotly
 arch
 scikit-learn
 statsmodels
+lxml
